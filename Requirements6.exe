@@ -1,0 +1,11 @@
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+## Requirements
+Install the required packages:
+   ```bash
+   pip install pandas numpy matplotlib scikit-learn
